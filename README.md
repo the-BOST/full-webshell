@@ -3,7 +3,7 @@
 
 > Interface web PHP tout-en-un pour l'administration de serveur, le pentest et la reconnaissance système.
 
-## �️ Aperçu
+## Aperçu
 
 ![ROOT-SENSEI ULTIMA v2](webshell.png)
 
